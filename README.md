@@ -35,5 +35,25 @@ Contexto: desenvolvimento de um app de matchmaking de vagas com gerador de curr�
 - Perfil — form completo com experiências, skills hard/soft, senioridade e upload de currículo base.
 - Histórico — tabela dos currículos gerados por vaga, com data e score.
 
-# Telas
+# Processo
+## O que funcionou bem?
+- Prompt inicial estruturado reduziu o retrabalho
+- Uso de componentes shadcn manteve a consistência visual sem correções
 
+## O que não funcionou como o esperado?
+- A logica de match interpretada de forma simplificada
+- Preview lado a lado do curriculo
+- Export PDF, formato
+
+## O que aprendeu sobre conversar com IAs?
+- Especificidade vale mais que extensão
+- A IA não infere regras de negócio, ela inventa
+- Ambiguidade visual é a maior fonte de retrabalho
+- Iterar é parte do processo
+
+# Telas
+<img width="1293" height="828" alt="image" src="https://github.com/user-attachments/assets/0d68e5c0-01a0-402e-9535-2a5a3e6b7a73" />
+
+<img width="1299" height="829" alt="image" src="https://github.com/user-attachments/assets/6990b1b4-ebfd-4391-8cfd-1491f5416278" />
+
+<img width="1302" height="832" alt="image" src="https://github.com/user-attachments/assets/527cfc31-1af8-4767-80fa-b213bcf47b13" />
