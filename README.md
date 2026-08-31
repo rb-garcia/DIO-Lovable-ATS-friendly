@@ -26,6 +26,8 @@ Dados: mock realista (10 vagas variadas, 1 perfil exemplo preenchido)
 Componentes shadcn: Card, Badge, Tabs, Dialog, Progress, Table, Input, Select
 
 # Resumo ATS Friendly
+Contexto: desenvolvimento de um app de matchmaking de vagas com gerador de currículos ATS-friendly, usando Lovable como plataforma de construção via prompts em linguagem natural, com shadcn/ui e paleta azul claro/branco.
+
 - Dashboard — score médio de match em indicador radial, contadores de vagas salvas e currículos, top 3 recomendações e timeline de atividade.
 - Vagas — 10 vagas realistas com badge colorido de match (verde >80%, amarelo 50–80%, vermelho <50%), busca e filtros por área, senioridade e localização.
 - Detalhe da vaga — comparativo visual de skills (você vs. vaga), breakdown com os pesos 60/25/15 e botão "Gerar currículo ATS".
@@ -33,4 +35,5 @@ Componentes shadcn: Card, Badge, Tabs, Dialog, Progress, Table, Input, Select
 - Perfil — form completo com experiências, skills hard/soft, senioridade e upload de currículo base.
 - Histórico — tabela dos currículos gerados por vaga, com data e score.
 
-  
+# Telas
+
