@@ -24,3 +24,13 @@ Crie "JobMatch AI" — app de matchmaking de vagas + gerador de currículo ATS-f
 Dados: mock realista (10 vagas variadas, 1 perfil exemplo preenchido)
 
 Componentes shadcn: Card, Badge, Tabs, Dialog, Progress, Table, Input, Select
+
+# Resumo ATS Friendly
+- Dashboard — score médio de match em indicador radial, contadores de vagas salvas e currículos, top 3 recomendações e timeline de atividade.
+- Vagas — 10 vagas realistas com badge colorido de match (verde >80%, amarelo 50–80%, vermelho <50%), busca e filtros por área, senioridade e localização.
+- Detalhe da vaga — comparativo visual de skills (você vs. vaga), breakdown com os pesos 60/25/15 e botão "Gerar currículo ATS".
+- Gerador ATS — animação de análise, preview lado a lado (original vs. otimizado com keywords destacadas), score ATS estimado e exportação em PDF.
+- Perfil — form completo com experiências, skills hard/soft, senioridade e upload de currículo base.
+- Histórico — tabela dos currículos gerados por vaga, com data e score.
+
+  
